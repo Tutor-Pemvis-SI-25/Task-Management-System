@@ -292,7 +292,26 @@ jobs:
           Show assigment
           ---
         expected-output: |
-          # Isi expected output Anda
+          Prioritas: 3.00
+          A1|X1|M1|D1|T1|F1|Belum Selesai|Tugas ini memiliki prioritas menengah
+          Prioritas: 3.00
+          A2|X2|M2|D2|T2|F2|Belum Selesai|Tugas ini memiliki prioritas menengah
+          Prioritas: 3.00
+          A3|X3|M3|D3|T3|F3|Belum Selesai|Tugas ini memiliki prioritas menengah
+          Prioritas: 3.00
+          A4|X4|M4|D4|T4|F4|Belum Selesai|Tugas ini memiliki prioritas menengah
+          Prioritas: 3.00
+          A5|X5|M5|D5|T5|F5|Belum Selesai|Tugas ini memiliki prioritas menengah
+          Prioritas: 3.00
+          A6|X6|M6|D6|T6|F6|Belum Selesai|Tugas ini memiliki prioritas menengah
+          Prioritas: 3.00
+          A7|X7|M7|D7|T7|F7|Belum Selesai|Tugas ini memiliki prioritas menengah
+          Prioritas: 3.00
+          A8|X8|M8|D8|T8|F8|Belum Selesai|Tugas ini memiliki prioritas menengah
+          Prioritas: 3.00
+          A9|X9|M9|D9|T9|F9|Belum Selesai|Tugas ini memiliki prioritas menengah
+          Prioritas: 3.00
+          A10|X10|M10|D10|T10|F10|Belum Selesai|Tugas ini memiliki prioritas menengah
         comparison-method: exact
         timeout: 1
         max-score: 20
