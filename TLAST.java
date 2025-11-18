@@ -1,7 +1,7 @@
 //Nama - NIM
 
 import java.util.*;
-// import java.lang.Math; // not used
+import java.lang.Math;
 
 public class TLAST {
     private static Scanner input = new Scanner(System.in);
@@ -45,10 +45,9 @@ public class TLAST {
         dosen[i] = input.nextLine();
         deadline[i] = input.nextLine();
         nimnama[i] = input.nextLine();
-    tingkatkesulitan[i] = input.nextDouble();
-    harihinggadeadline[i] = input.nextInt();
-    input.nextLine(); // consume leftover newline after numeric input
-    status[i] = input.nextLine();
+        tingkatkesulitan[i] = input.nextDouble();
+        harihinggadeadline[i] = input.nextInt();
+        status[i] = input.nextLine();
         prioritas[i] = tingkatkesulitan[i] * (1.0 / harihinggadeadline[i]);
         if (prioritas[i] > 3) {
             teks[i] = "Penting! Anda harus mengerjakan tugas ini segera";
@@ -166,4 +165,3 @@ public class TLAST {
         return String.format("%." + digits + "f", value);
     }
 }
-
