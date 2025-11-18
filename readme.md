@@ -32,7 +32,7 @@ Buat program untuk simulasi ATM sederhana
 Pemrograman Lanjutan
 Dr. Emily Watson
 4 November 2023, pukul 15.00 WIB
-12S22005_ButetSibuea_PemrogramanLanjutan
+12S22005_ButetMarpaung_PemrogramanLanjutan
 5   # Tingkat Kesulitan (1-5)
 3   # Hari hingga deadline
 Belum Selesai   # Status (Selesai/Belum Selesai)
@@ -42,7 +42,7 @@ Buat program face recognition
 Kecerdasan buatan
 Dr. Samuel
 10 November 2023, pukul 15.00 WIB
-12S22005_ButetSibuea_Kecerdasan_buatan
+12S22005_ButetMarpaung_Kecerdasan_buatan
 5   # Tingkat Kesulitan (1-5)
 1   # Hari hingga deadlinne
 Belum Selesai   # Status (Selesai/Belum Selesai)
@@ -58,9 +58,9 @@ Show assigment  ##Perintah untuk menampilkan list tugas
 
 ```bash
 Prioritas: 5.00
-Buat program face recognition|12S1104|Kecerdasan buatan|Dr. Samuel|10 November 2023, pukul 15.00 WIB|12S22005_ButetSibuea_Kecerdasan_buatan|Belum Selesai|Penting! Anda harus mengerjakan tugas ini segera
+Buat program face recognition|12S1104|Kecerdasan buatan|Dr. Samuel|10 November 2023, pukul 15.00 WIB|12S22005_ButetMarpaung_Kecerdasan_buatan|Belum Selesai|Penting! Anda harus mengerjakan tugas ini segera
 Prioritas: 1.67
-Buat program untuk simulasi ATM sederhana|12S1103|Pemrograman Lanjutan|Dr. Emily Watson|12S22005_PoppySibuea_Kecerdasan_buatan|Selesai
+Buat program untuk simulasi ATM sederhana|12S1103|Pemrograman Lanjutan|Dr. Emily Watson|12S22005_ButetMarpaung_Kecerdasan_buatan|Selesai
 
 ```
 
@@ -76,7 +76,7 @@ Adversarial Search and Constraint Satisfaction Problem
 Artificial Intelligence
 Dr. Sam
 16 November 2023, pukul 15.00 WIB
-12S22017_Andrey_PemrogramanLanjutan
+12S22017_Joseph_PemrogramanLanjutan
 8
 4
 Belum Selesai
@@ -86,7 +86,7 @@ Physical Storage Systems
 Advanced Database
 Dr. Toni
 21 November 2023, pukul 15.00 WIB
-12S22017_Andrey_AdvancedDatabase
+12S22017_Joseph_AdvancedDatabase
 6
 2
 Belum Selesai
@@ -100,7 +100,7 @@ Project Management Information System
 Information System Foundation
 Dr. Natalia
 18 November 2023, pukul 15.00 WIB
-12S22017_Andrey_InformationSystemFoundation
+12S22017_Joseph_InformationSystemFoundation
 7
 5
 Belum Selesai
@@ -111,7 +111,7 @@ TIS1101
 Digital Innovation
 Dr. Sari
 15 November 2023, pukul 15.00 WIB
-12S22017_Andrey_DigitalInnovation
+12S22017_Joseph_DigitalInnovation
 5
 2
 Belum Selesai
@@ -128,22 +128,22 @@ Show assigment
 ```bash
 
 Prioritas: 3.00
-Physical Storage Systems|12S3102|Advanced Database|Dr. Toni|12S22017_Andrey_AdvancedDatabase|Selesai
+Physical Storage Systems|12S3102|Advanced Database|Dr. Toni|12S22017_Joseph_AdvancedDatabase|Selesai
 Prioritas: 2.00
-Adversarial Search and Constraint Satisfaction Problem|10S3001|Artificial Intelligence|Dr. Sam|16 November 2023, pukul 15.00 WIB|12S22017_Andrey_AdvancedDatabase|Belum Selesai|Tugas ini memiliki prioritas menengah
+Adversarial Search and Constraint Satisfaction Problem|10S3001|Artificial Intelligence|Dr. Sam|16 November 2023, pukul 15.00 WIB|12S22017_Joseph_AdvancedDatabase|Belum Selesai|Tugas ini memiliki prioritas menengah
 Prioritas: 3.00
-Physical Storage Systems|12S3102|Advanced Database|Dr. Toni|12S22017_Andrey_AdvancedDatabase|Selesai
+Physical Storage Systems|12S3102|Advanced Database|Dr. Toni|12S22017_Joseph_AdvancedDatabase|Selesai
 Prioritas: 2.00
-Adversarial Search and Constraint Satisfaction Problem|10S3001|Artificial Intelligence|Dr. Sam|16 November 2023, pukul 15.00 WIB|12S22017_Andrey_AdvancedDatabase|Belum Selesai|Tugas ini memiliki prioritas menengah
+Adversarial Search and Constraint Satisfaction Problem|10S3001|Artificial Intelligence|Dr. Sam|16 November 2023, pukul 15.00 WIB|12S22017_Joseph_AdvancedDatabase|Belum Selesai|Tugas ini memiliki prioritas menengah
 Prioritas: 1.40
-Project Management Information System|12S1101|Information System Foundation|Dr. Natalia|18 November 2023, pukul 15.00 WIB|12S22017_Andrey_InformationSystemFoundation|Belum Selesai|Tugas ini relatif ringan, namun jangan tunda terlalu lama
+Project Management Information System|12S1101|Information System Foundation|Dr. Natalia|18 November 2023, pukul 15.00 WIB|12S22017_Joseph_InformationSystemFoundation|Belum Selesai|Tugas ini relatif ringan, namun jangan tunda terlalu lama
 Prioritas: 3.00
-Physical Storage Systems|12S3102|Advanced Database|Dr. Toni|12S22017_Andrey_AdvancedDatabase|Selesai
+Physical Storage Systems|12S3102|Advanced Database|Dr. Toni|12S22017_Joseph_AdvancedDatabase|Selesai
 Prioritas: 2.50
-Problem Decompositon and Problem Identification|TIS1101|Digital Innovation|Dr. Sari|15 November 2023, pukul 15.00 WIB|12S22017_Andrey_DigitalInnovation|Belum Selesai|Tugas ini memiliki prioritas menengah
+Problem Decompositon and Problem Identification|TIS1101|Digital Innovation|Dr. Sari|15 November 2023, pukul 15.00 WIB|12S22017_Joseph_DigitalInnovation|Belum Selesai|Tugas ini memiliki prioritas menengah
 Prioritas: 2.00
-Adversarial Search and Constraint Satisfaction Problem|10S3001|Artificial Intelligence|Dr. Sam|16 November 2023, pukul 15.00 WIB|12S22017_Andrey_DigitalInnovation|Belum Selesai|Tugas ini memiliki prioritas menengah
+Adversarial Search and Constraint Satisfaction Problem|10S3001|Artificial Intelligence|Dr. Sam|16 November 2023, pukul 15.00 WIB|12S22017_Joseph_DigitalInnovation|Belum Selesai|Tugas ini memiliki prioritas menengah
 Prioritas: 1.40
-Project Management Information System|12S1101|Information System Foundation|Dr. Natalia|18 November 2023, pukul 15.00 WIB|12S22017_Andrey_DigitalInnovation|Belum Selesai|Tugas ini relatif ringan, namun jangan tunda terlalu lama
+Project Management Information System|12S1101|Information System Foundation|Dr. Natalia|18 November 2023, pukul 15.00 WIB|12S22017_Joseph_DigitalInnovation|Belum Selesai|Tugas ini relatif ringan, namun jangan tunda terlalu lama
 
 ```
